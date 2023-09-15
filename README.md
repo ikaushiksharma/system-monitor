@@ -2,6 +2,7 @@
 # System Monitor
 
 System Monitor is a versatile command-line tool written in C that provides real-time information about your system's performance and resource utilization. This program allows you to customize the output and choose what information you want to see.
+![image](https://github.com/ikaushiksharma/system-monitor/assets/90143986/2670e481-ba14-4f3c-a3b6-415885bdad32)
 
 ## Features
 
